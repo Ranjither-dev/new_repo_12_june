@@ -11,3 +11,9 @@ resource "aws_instance" "pub_server" {
   }
 
 }
+
+
+
+
+for dev branch for all of us information
+
