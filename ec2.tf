@@ -11,3 +11,6 @@ resource "aws_instance" "pub_server" {
   }
 
 }
+
+
+#nothing
